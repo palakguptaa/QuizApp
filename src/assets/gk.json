@@ -1,0 +1,87 @@
+[{
+    "label": "Central Bank of India",
+    "choices": [{
+        "value": "RBI",
+        "correct": true
+      },
+      {
+        "value": "SBI",
+        "correct": false
+      },
+      {
+        "value": "HDFC",
+        "correct": false
+      },
+      {
+        "value": "ICICI",
+        "correct": false
+      }
+    ]
+  },
+
+  {
+    "label": "Sabarmati Ashram was established by Mahatma Gandhi in which year?",
+    "choices": [{
+        "value": "1905",
+        "correct": false
+        
+      },
+      {
+        "value": "1910",
+        "correct": false
+      },
+      {
+        "value": "1915",
+        "correct": false
+      },
+      {
+        "value": "1917",
+        "correct": true
+      }
+    ]
+  },
+
+  {
+    "label": "Which among the following test is most suitable to judge paternity",
+    "choices": [{
+        "value": "Blood Grouping",
+        "correct": false
+        
+      },
+      {
+        "value": "Tissue Culture",
+        "correct": false
+      },
+      {
+        "value": "DNA Test",
+        "correct": true
+      },
+      {
+        "value": "Genetic Codes",
+        "correct": false
+      }
+    ]
+  },
+
+  {
+    "label": "In which year Robert Edwin Peary became the first person to reach the North Pole",
+    "choices": [{
+      "value": "1905",
+      "correct": false
+      
+    },
+    {
+      "value": "1909",
+      "correct": true
+    },
+    {
+      "value": "1915",
+      "correct": false
+    },
+    {
+      "value": "1911",
+      "correct": false
+    }
+    ]
+  }
+]

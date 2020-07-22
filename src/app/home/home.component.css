@@ -1,0 +1,42 @@
+body{
+    background-color: #a5a5a5;
+    
+  }
+  .mat-app-background{
+    background-color: #530617;
+    
+  }
+  
+  .btn-primary{
+    background-color: rgb(214, 208, 208);
+    font-size: small;
+    color: #530617;
+  }
+  
+  .mat-card:not([class*=mat-elevation-z]) {
+    box-shadow: 0 2px 1px -1px rgba(0,0,0,.2), 0 1px 1px 0 rgba(0,0,0,.14), 0 1px 3px 0 rgba(0,0,0,.12);
+  }
+
+  mat-card{
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    background: #2e0310;
+    color: #fff;
+    font-size: 30px;
+    font-family: 'Courier New','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-color: #fff;
+    border-radius: 2px;
+    border: 2px solid;
+  }
+  
+  .title{
+    margin: auto;
+    /* background-color: #efecf0; */
+    color: rgb(252, 249, 249);
+  }
+
+.quiz-btn {
+    display: inline-block;
+    /* margin: 5px; */
+}

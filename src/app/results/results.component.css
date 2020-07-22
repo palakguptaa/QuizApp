@@ -1,0 +1,45 @@
+body{
+    background-color: #E8F75F;
+  }
+  .answer{
+    background-color: rgb(161, 24, 24);
+    width: auto;
+    font-size: 26px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 5px;
+    margin-top: 5px;
+  }
+  
+  .correct{
+    background-color: rgb(12, 97, 38);
+  }
+  
+  .btn-primary{
+    background-color: rgb(61, 34, 34);
+    font-size: large;
+    color: #fff;
+  }
+  
+  .btn-primary{
+    background-color: rgb(238, 234, 234);
+    font-size: large;
+    color: rgb(10, 10, 10);
+  }
+  
+  mat-card{
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    background: #0b000f;
+    color: #fff;
+    font-size: 50px;
+  }
+  
+  
+  .title{
+    margin: auto;
+    background-color: #0b0b0c;
+    color: white;
+    font-size: 30px;
+  }

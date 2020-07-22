@@ -1,0 +1,85 @@
+[{
+    "label": "What is 15 + 27?",
+    "choices": [{
+        "value": "42",
+        "correct": true
+      },
+      {
+        "value": "54",
+        "correct": false
+      },
+      {
+        "value": "32",
+        "correct": false
+      },
+      {
+        "value": "43",
+        "correct": false
+      }
+    ]
+  },
+
+  {
+    "label": "How many surfaces are there in a cube?",
+    "choices": [{
+        "value": "4",
+        "correct": false
+      },
+      {
+        "value": "5",
+        "correct": false
+      },
+      {
+        "value": "3",
+        "correct": false
+      },
+      {
+        "value": "None",
+        "correct": true
+      }
+    ]
+  },
+
+  {
+    "label": "How much is 90-19?",
+    "choices": [{
+        "value": "109",
+        "correct": false
+      },
+      {
+        "value": "71",
+        "correct": true
+      },
+      {
+        "value": "89",
+        "correct": false
+      },
+      {
+        "value": "None",
+        "correct": false
+      }
+    ]
+  },
+
+  {
+    "label": "How much is 190 – 87 + 16?",
+    "choices": [{
+        "value": "87",
+        "correct": false
+      },
+      {
+        "value": "119",
+        "correct": true
+      },
+      {
+        "value": "261",
+        "correct": false
+      },
+      {
+        "value": "103",
+        "correct": false
+      }
+    ]
+  }
+
+]

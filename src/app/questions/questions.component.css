@@ -1,0 +1,38 @@
+btn-primary{
+    background-color: #E8F75F;
+  }
+  mat-card{
+    width: 256px
+  }
+  
+  body{
+    background-color: #E8F75F;
+  }
+  .mat-app-background{
+    background-color: #000057;
+  }
+  
+  .btn-primary{
+    background-color: rgb(223, 219, 219);
+    font-size: large;
+    color:  #2e0310;
+  }
+  
+  mat-card{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    background: #2e0310;
+    color: #fff;
+    font-size: 15px;
+    font-family: 'Courier New', Verdana, Geneva, Tahoma, sans-serif;
+    border-color: #fff;
+    border-radius: 2px;
+    border: 2px solid;
+  }
+  
+  .title{
+    margin: auto;
+    background-color:  #2e0310;
+    color: white;
+  }

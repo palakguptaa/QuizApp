@@ -1,0 +1,12 @@
+[
+    {
+      "label": "Maths",
+      "name": "maths",
+      "fileName": "maths.json"
+    },
+    {
+      "label": "General Knowledge",
+      "name": "gk",
+      "fileName": "gk.json"
+    }
+  ]
